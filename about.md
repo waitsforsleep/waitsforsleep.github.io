@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ow what or who am I? As soon as this blog template posed that question the following exchange from the first Avengers film played back in my head.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Steve Rogers** : Big man in a suit of armour. Take that off and what are you?
+**Tony Stark** : Billionaire, Genius, Playboy, Philanthropist
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Gotta admire the confidence of someone who can rattle off a list of on-point adjectives to answer what’s essentially the question the “about” page of a blog template asks.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Now I do not qualify for any of the above adjectives Mr Homo Ferrum used there. Although I do know that if I could be any Avenger, I’d choose to be Cap.
