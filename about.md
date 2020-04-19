@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-ow what or who am I? As soon as this blog template posed that question the following exchange from the first Avengers film played back in my head.
+Now _what_ or _who_ am I? As soon as this blog template posed that question the following exchange from the first Avengers film played back in my head.
 
 >**Steve Rogers** : Big man in a suit of armour. Take that off and what are you?
 >
