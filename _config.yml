@@ -24,7 +24,7 @@ twitter_username: waitsforsleep
 github_username:  waitsforsleep
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
