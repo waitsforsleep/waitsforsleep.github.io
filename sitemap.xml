@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.waitsforsleep.net/posts/hello-world/</loc>
-    <lastmod>2020-04-25T14:17:12+08:00</lastmod>
+    <loc>http://blog.waitsforsleep.net/posts/samsung-rising/</loc>
+    <lastmod>2020-04-26T00:31:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.waitsforsleep.net/tags/books/</loc>
+    <lastmod>2020-04-26T00:31:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.waitsforsleep.net/posts/</loc>
+    <lastmod>2020-04-26T00:31:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.waitsforsleep.net/tags/</loc>
+    <lastmod>2020-04-26T00:31:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.waitsforsleep.net/posts/hello-world/</loc>
     <lastmod>2020-04-25T14:17:12+08:00</lastmod>
   </url>
   
@@ -24,10 +39,6 @@
   
   <url>
     <loc>http://blog.waitsforsleep.net/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://blog.waitsforsleep.net/tags/</loc>
   </url>
   
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Images &amp; Words</title>
-    <link>http://blog.waitsforsleep.net/posts/</link>
-    <description>Recent content in Posts on Images &amp; Words</description>
+    <title>books on Images &amp; Words</title>
+    <link>http://blog.waitsforsleep.net/tags/books/</link>
+    <description>Recent content in books on Images &amp; Words</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2020 00:31:11 +0800</lastBuildDate>
     
-	<atom:link href="http://blog.waitsforsleep.net/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.waitsforsleep.net/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://blog.waitsforsleep.net/posts/samsung-rising/</guid>
       <description>Finding out more about the origin stories of successful companies is always an informative and entertaining endeavor. For me that list so far includes ..
  Game Over, Press Start to Continue about Nintendo iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It about Apple Masters of Doom about id Software Showstopper! the Breakneck Race to Create Windows NT and the Next Generation at Microsoft about Microsoft  The latest addition to the above list is Samsung Rising by Geoffrey Cain which chronicles Samsung&amp;rsquo;s rise from an agricultural company to something more akin to The Umbrella Corporation.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://blog.waitsforsleep.net/posts/hello-world/</link>
-      <pubDate>Sat, 25 Apr 2020 14:17:12 +0800</pubDate>
-      
-      <guid>http://blog.waitsforsleep.net/posts/hello-world/</guid>
-      <description>Hello World!! Have not set-up a new blog in more than a decade and I haven’t written a public blog post in more than 5 years. I can finally cross a dangling item in my to do list and I hope I can be disciplined enough to write regularly.
-Years and years of consuming text and never producing any does not seem right.</description>
     </item>
     
   </channel>
