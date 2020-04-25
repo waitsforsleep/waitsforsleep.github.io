@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Images and Words</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Images and Words</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2020 14:17:12 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/posts/hello-world/</link>
+      <pubDate>Sat, 25 Apr 2020 14:17:12 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello-world/</guid>
+      <description>Hello World!! Have not set-up a new blog in more than a decade and I haven’t written a public blog post in more than 5 years. I can finally cross a dangling item in my to do list and I hope I can be disciplined enough to write regularly.
+Years and years of consuming text and never producing any does not seem right.</description>
+    </item>
+    
+  </channel>
+</rss>

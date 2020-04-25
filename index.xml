@@ -1,0 +1,44 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Images and Words</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Images and Words</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2020 16:20:36 +0800</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Hello World</title>
+        <link>http://example.org/posts/hello-world/</link>
+        <pubDate>Sat, 25 Apr 2020 14:17:12 +0800</pubDate>
+        
+        <guid>http://example.org/posts/hello-world/</guid>
+        <description>Images and Words http://example.org/posts/hello-world/ -&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!!&lt;/h1&gt;
+&lt;p&gt;Have not set-up a new blog in more than a decade and I haven’t written a public blog post in more than 5 years. I can finally cross a dangling item in my to do list and I hope I can be disciplined enough to write regularly.&lt;/p&gt;
+&lt;p&gt;Years and years of consuming text and never producing any does not seem right.&lt;/p&gt;
+- http://example.org/posts/hello-world/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>About</title>
+        <link>http://example.org/about/</link>
+        <pubDate>Fri, 24 Apr 2020 16:20:36 +0800</pubDate>
+        
+        <guid>http://example.org/about/</guid>
+        <description>Images and Words http://example.org/about/ -&lt;p&gt;Now what or who am I? As soon as this blog template posed that question the following exchange from the first Avengers film played back in my head.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Steve Rogers&lt;/em&gt;&lt;/strong&gt; : Big man in a suit of armour. Take that off and what are you?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tony Stark&lt;/em&gt;&lt;/strong&gt; : Billionaire, Genius, Playboy, Philanthropist&lt;/p&gt;
+&lt;p&gt;Gotta admire the confidence of someone who can rattle off a list of on-point adjectives to answer what’s essentially the question the “about” page of a blog template asks.&lt;/p&gt;
+&lt;p&gt;Now I do not qualify for any of the above adjectives Mr Homo Ferrum used there. Although I do know that if I could be any Avenger, I’d choose to be Cap.&lt;/p&gt;
+- http://example.org/about/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
