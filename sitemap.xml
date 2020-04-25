@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.waitsforsleep.net/posts/hello-world/</loc>
+    <loc>https://waitsforsleep.github.io/posts/hello-world/</loc>
     <lastmod>2020-04-25T14:17:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.waitsforsleep.net/posts/</loc>
+    <loc>https://waitsforsleep.github.io/posts/</loc>
     <lastmod>2020-04-25T14:17:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.waitsforsleep.net/about/</loc>
+    <loc>https://waitsforsleep.github.io/about/</loc>
     <lastmod>2020-04-24T16:20:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.waitsforsleep.net/</loc>
+    <loc>https://waitsforsleep.github.io/</loc>
     <lastmod>2020-04-24T16:20:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.waitsforsleep.net/categories/</loc>
+    <loc>https://waitsforsleep.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://blog.waitsforsleep.net/tags/</loc>
+    <loc>https://waitsforsleep.github.io/tags/</loc>
   </url>
   
 </urlset>
