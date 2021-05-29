@@ -12,6 +12,28 @@
     
     
         <item>
+        <title>2021 05 29</title>
+        <link>https://blog.waitsforsleep.net/posts/2021-05-29/</link>
+        <pubDate>Sun, 30 May 2021 02:58:22 +0800</pubDate>
+        
+        <guid>https://blog.waitsforsleep.net/posts/2021-05-29/</guid>
+        <description>Images &amp; Words https://blog.waitsforsleep.net/posts/2021-05-29/ -&lt;p&gt;&lt;em&gt;Saturday, May 29, 11:58 AM&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Absolutely bonkers report about how flash cards used by US soldiers guarding sensitive spots ended up as an opsec disaster.&lt;/p&gt;
+&lt;p&gt;I vaguely remember reading reports that fitness bands and running apps(like Runkeeper and Strava) ended up inadvertently revealing unmarked military bases because people noticed public running data that indicated people running in circles in the middle of the desert where official maps say there is nothing.&lt;/p&gt;
+&lt;p&gt;If the military has this much trouble maintaining opsec hygeine imagine the predicament of a private citizen in this digital age.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/&#34;&gt;https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Saturday, May 29, 1:28 PM&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I think this essay by Bruce Schneier needs to be widely read by everyone, especially my peeps who are building new and complex distributed systems on one of the major cloud providers.&lt;/p&gt;
+&lt;p&gt;The overwhelming &amp;ldquo;security strategy&amp;rdquo; seems to be to put almost all the eggs in the cloud provider&amp;rsquo;s basket and half hoping that the cloud providers really have their shit together. But as the essay argues market consolidation may have erased a lot of the security incentive from the cloud provider&amp;rsquo;s perspective.&lt;/p&gt;
+&lt;p&gt;Personal experience also tells me that most well known public cloud providers prioritize new features (while trading off runtime simplicity and by extension security) and ends up giving customers just enough rope to hang themselves while lulling them into a false sense of security.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-cloud-security.html&#34;&gt;https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-cloud-security.html&lt;/a&gt;&lt;/p&gt;
+- https://blog.waitsforsleep.net/posts/2021-05-29/ - </description>
+        </item>
+    
+    
+    
+        <item>
         <title>2021 05 28</title>
         <link>https://blog.waitsforsleep.net/posts/2021-05-28/</link>
         <pubDate>Sat, 29 May 2021 02:19:52 +0800</pubDate>
