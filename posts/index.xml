@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Images &amp; Words</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 16:46:41 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 13:57:42 +0800</lastBuildDate>
     
 	<atom:link href="https://blog.waitsforsleep.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 08 01</title>
+      <link>https://blog.waitsforsleep.net/posts/2021-08-01/</link>
+      <pubDate>Sun, 01 Aug 2021 13:57:42 +0800</pubDate>
+      
+      <guid>https://blog.waitsforsleep.net/posts/2021-08-01/</guid>
+      <description>Interesting post from a LessWrong user who&amp;rsquo;s resorted to using 5-minute games on chess.com to sort of &amp;ldquo;measure&amp;rdquo; his/her cognitive capacity/variance on a day-to-day basis. I&amp;rsquo;ve been toying around with the idea of picking up playing chess again on a hobby basis (without putting any time to study things like openings and what not). I should perhaps park some time in the morning to do this.
+https://www.lesswrong.com/posts/nvRauqCD3u5hdkLm9/chess-and-cheap-ways-to-check-day-to-day-variance-in#comments
+ Vice report on unique and technically sophisticated hacks that are being deployed en-masse by Gojek riders in Indonesia to get around the one-algorithm-fits-all mentality that&amp;rsquo;s being enforced by modern gig platforms like Gojek/Grab/Uber etc.</description>
+    </item>
     
     <item>
       <title>2021 06 27</title>
