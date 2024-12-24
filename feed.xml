@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel><atom:link href="http://mysite.com/feeds/xml.rss" rel="self" type="application/rss+xml"/>
+<title>ഇന്നത്തെ ചിന്താവിഷയം | Thoughts of the Day</title>
+<link>http://mysite.com</link>
+<description>A web-log / common place notebook</description>
+<language>en-GB</language><item>
+<title>2024-12-23</title>
+<description>&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;tc-tiddlylink-external&quot; href=&quot;https://pluralistic.net/2021/05/09/the-memex-method/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://pluralistic.net/2021/05/09/the-memex-method/&lt;/a&gt;&lt;ul&gt;&lt;li&gt;Revisited the whole reason I decided to resurrect this blog. &lt;/li&gt;&lt;li&gt;Feels right to do this before the new year starts rather than during or with the new year. I feel like its takes the pressure out from the day.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;tc-tiddlylink-external&quot; href=&quot;https://www.lesswrong.com/posts/JBR6AF9Gusv4u6Fwo/laziness-death-spirals?utm_source=pocket_shared&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://www.lesswrong.com/posts/JBR6AF9Gusv4u6Fwo/laziness-death-spirals?utm_source=pocket_shared&lt;/a&gt;&lt;ul&gt;&lt;li&gt;A first person account of laziness and procrastination that really resonated with me. &lt;/li&gt;&lt;li&gt;I realized that I had also stumbled upon some of the strategies listed in this essay in my lifelong battle with procrastination and poor attention/focus.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+<pubDate> Mon, 23 Dec 2024 16:09:54 GMT</pubDate>
+<link>http://mysite.com#2024-12-23</link>
+<guid isPermaLink="true">http://mysite.com#2024-12-23</guid>
+</item><item>
+<title>2024-12-24</title>
+<description>&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;tc-tiddlylink-external&quot; href=&quot;https://www.schneier.com/blog/archives/2024/12/trust-issues-in-ai.html&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://www.schneier.com/blog/archives/2024/12/trust-issues-in-ai.html&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;tc-tiddlylink-external&quot; href=&quot;https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+<pubDate> Tue, 24 Dec 2024 08:34:49 GMT</pubDate>
+<link>http://mysite.com#2024-12-24</link>
+<guid isPermaLink="true">http://mysite.com#2024-12-24</guid>
+</item><item>
+<title>About</title>
+<description>&lt;h2 class=&quot;&quot;&gt;What is this ? &lt;/h2&gt;&lt;p&gt;This is a common place (web) notebook / blog. Refer &lt;a class=&quot;tc-tiddlylink tc-tiddlylink-resolves&quot; href=&quot;#Hello%20World&quot;&gt;here&lt;/a&gt; for a detailed explanation.&lt;/p&gt;&lt;h2 class=&quot;&quot;&gt;Who am I ?&lt;/h2&gt;&lt;p&gt;Doesn't really matter.&lt;/p&gt;</description>
+<pubDate> Mon, 23 Dec 2024 16:18:55 GMT</pubDate>
+<link>http://mysite.com#About</link>
+<guid isPermaLink="true">http://mysite.com#About</guid>
+</item><item>
+<title>Book Notes</title>
+<description></description>
+<pubDate> Mon, 23 Dec 2024 16:04:11 GMT</pubDate>
+<link>http://mysite.com#Book%20Notes</link>
+<guid isPermaLink="true">http://mysite.com#Book%20Notes</guid>
+</item><item>
+<title>Essays</title>
+<description></description>
+<pubDate> Mon, 23 Dec 2024 16:04:40 GMT</pubDate>
+<link>http://mysite.com#Essays</link>
+<guid isPermaLink="true">http://mysite.com#Essays</guid>
+</item></channel></rss>
